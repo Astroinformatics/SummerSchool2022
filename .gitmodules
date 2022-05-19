@@ -1,3 +1,6 @@
 [submodule "day2/DimensionalReduction"]
 	path = day2/DimensionalReduction
 	url = git@github.com:Astroinformatics/DimensionalReduction.git
+[submodule "day3/BayesianComputing"]
+	path = day3/BayesianComputing
+	url = git@github.com:Astroinformatics/BayesianComputing.git
