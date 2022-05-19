@@ -25,22 +25,23 @@ Orgaized by [Penn State Center for Astrostatistics](https://sites.psu.edu/astros
 ## Tuesday
 ### Machine Learning in Practice
 - Evaluating ML Performance & Regularization
-- Dimensional Reduction
-  - Intro to PCA
-  - Kernels for PCA & SVMs
-  - Application: Galaxy classification
+- [Dimensional Reduction](https://github.com/Astroinformatics/DimensionalReduction)
+  - [Intro to PCA](https://raw.githubusercontent.com/Astroinformatics/DimensionalReduction/main/pca_intro.jl)
+  - [Kernels for PCA & SVMs](https://raw.githubusercontent.com/Astroinformatics/DimensionalReduction/main/kernel_pca_intro.jl)
+  - [Application: Classifying high-redshift quasars](https://github.com/Astroinformatics/DimensionalReduction/raw/main/pca_apply.jl)
+  - [Application: Galaxy classification](https://github.com/Astroinformatics/DimensionalReduction/blob/main/application_to_galaxy_images.ipynb)
 
 -----
 
 ## Wednesday
-### Bayesian Computing
+### [Bayesian Computing](https://github.com/Astroinformatics/BayesianComputing)
 - Monte Carlo Integration
 - Intro to Probabilistic Programming Languages
 - Heirarchical Modeling via a PPL
 - Application:  Galaxy Evolution
 
 
-### Neural Networks
+### [Neural Networks](https://github.com/Astroinformatics/NeuralNetworks)
 - Intro to Neural Networks
 - Application: Galaxy classification
 
