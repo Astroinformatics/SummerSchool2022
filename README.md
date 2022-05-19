@@ -1,8 +1,10 @@
 # Astroinformatics Summer School 2022
-## [Penn State Center for Astrostatistics](https://sites.psu.edu/astrostatistics/)
+Orgaized by [Penn State Center for Astrostatistics](https://sites.psu.edu/astrostatistics/)
 
+[Website & registration](https://sites.psu.edu/astrostatistics/astroinfo-su22/)
 -----
-# Overview (draft)
+
+# Draft Program
 
 ## Monday
 ### Fundamentals for Machine Learning & Big Data
