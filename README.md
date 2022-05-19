@@ -6,15 +6,14 @@ Orgaized by [Penn State Center for Astrostatistics](https://sites.psu.edu/astros
 
 # Draft Program
 
-## Monday
+## Day 1
 ### Fundamentals for Machine Learning & Big Data
-- Regression
-  - Intro Gradient Descent
-  - Intro Linear Regression
-- Classificaiton
-  - Intro Logistic Regression
-  - Intro Suppert Vector Machines
-  - Application: High-z Quasars
+- [Regression & Classification](https://github.com/Astroinformatics/RegressionAndClassification)
+  - Gradient Descent Lab
+  - Linear Regression Lab
+  - Logistic Regression Lab
+  - Suppert Vector Machines Lab
+  - Application: Classifying High-z Quasars
 
 ### Data Mining
 - Intro to Databases & SQL
@@ -22,7 +21,7 @@ Orgaized by [Penn State Center for Astrostatistics](https://sites.psu.edu/astros
 
 -----
 
-## Tuesday
+## Day 2
 ### Machine Learning in Practice
 - Evaluating ML Performance & Regularization
 - [Dimensional Reduction](https://github.com/Astroinformatics/DimensionalReduction)
@@ -33,7 +32,7 @@ Orgaized by [Penn State Center for Astrostatistics](https://sites.psu.edu/astros
 
 -----
 
-## Wednesday
+## Day 3
 ### [Bayesian Computing](https://github.com/Astroinformatics/BayesianComputing)
 - Monte Carlo Integration
 - Intro to Probabilistic Programming Languages
@@ -47,15 +46,15 @@ Orgaized by [Penn State Center for Astrostatistics](https://sites.psu.edu/astros
 
 -----
 
-## Thursday
-### Variational Inference
+## Day 4
+### [Variational Inference](https://github.com/Astroinformatics/VariationalInference)
 - Application: Image classificaiton
-### Scientific Machine Learning
+### [Scientific Machine Learning](https://github.com/Astroinformatics/ScientificMachineLearning)
 
 -----
 
-## Friday
-### High-Performance Computing
+## Day 5
+### [High-Performance Computing](https://github.com/Astroinformatics/HighPerformanceComputing)
 ### Putting it all together
 ### Panel Discussion on ML in Astronomy
 
