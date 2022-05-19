@@ -4,3 +4,6 @@
 [submodule "day3/BayesianComputing"]
 	path = day3/BayesianComputing
 	url = git@github.com:Astroinformatics/BayesianComputing.git
+[submodule "day3/NeuralNetworks"]
+	path = day3/NeuralNetworks
+	url = git@github.com:Astroinformatics/NeuralNetworks.git
