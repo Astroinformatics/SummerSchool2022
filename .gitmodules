@@ -1,0 +1,3 @@
+[submodule "day2/DimensionalReduction"]
+	path = day2/DimensionalReduction
+	url = git@github.com:Astroinformatics/DimensionalReduction.git
