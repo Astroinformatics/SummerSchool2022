@@ -7,3 +7,15 @@
 [submodule "day3/NeuralNetworks"]
 	path = day3/NeuralNetworks
 	url = git@github.com:Astroinformatics/NeuralNetworks.git
+[submodule "day4/VariationalInference"]
+	path = day4/VariationalInference
+	url = git@github.com:Astroinformatics/VariationalInference.git
+[submodule "day1/RegressionAndClassification"]
+	path = day1/RegressionAndClassification
+	url = git@github.com:Astroinformatics/RegressionAndClassification.git
+[submodule "day4/ScientificMachineLearning"]
+	path = day4/ScientificMachineLearning
+	url = git@github.com:Astroinformatics/ScientificMachineLearning.git
+[submodule "day5/HighPerformanceComputing"]
+	path = day5/HighPerformanceComputing
+	url = git@github.com:Astroinformatics/HighPerformanceComputing.git
