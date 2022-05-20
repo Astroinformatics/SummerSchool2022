@@ -1,5 +1,8 @@
 import Pkg
 
+should_update = true
+should_instantiate = true
+
 if ! haskey(Pkg.installed(),"Pluto")
     Pkg.activate(mktempdir());
     Pkg.add([
@@ -24,13 +27,17 @@ for (root, dirs, files) in walkdir(".")
             open(file_with_path, "r") do io
                 firstline = String(readline(io))
                 if firstline == Pluto._notebook_header
-                    println("# File ",file_with_path, " is a Pluto.jl notebook")
+                    println("# Found a Pluto.jl notebook: ", file_with_path)
                     println("# Activating ", file_with_path)
-                    Pluto.activate_notebook_environment(joinpath(root, file))
+                    Pluto.activate_notebook_environment(file_with_path)
                     println("# Updating ", file_with_path)
-                    Pkg.update()
+                    if should_update
+                        Pkg.update()
+                    end
                     println("# Instantiating ", file_with_path)
-                    Pkg.instantiate()
+                    if should_instantiate
+                        Pkg.instantiate()
+                    end
                 end
             end
         end  # if .jl
