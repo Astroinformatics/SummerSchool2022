@@ -1,0 +1,6 @@
+.git
+*.plutostate
+*/Manifest.toml
+index.html
+*/index.html
+
