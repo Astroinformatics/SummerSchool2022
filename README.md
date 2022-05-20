@@ -15,8 +15,8 @@ Orgaized by [Penn State Center for Astrostatistics](https://sites.psu.edu/astros
 - Application: Classifying High-z Quasars
 
 ### Data Mining
-- Intro to Databases & SQL
-- SQL Lab
+- Intro to Databases & SQL ([slides](https://drive.google.com/file/d/152gijuTv5kvbP3VODNg1Dbzt_0gdElSA/view?usp=sharing))
+- SQL Lab ([instructions](https://drive.google.com/file/d/1J8lFFAQFSA_90_K53suEOAkoBjcl6NKV/view?usp=sharing))
 
 -----
 
@@ -50,7 +50,5 @@ Orgaized by [Penn State Center for Astrostatistics](https://sites.psu.edu/astros
 -----
 ## Day 5:  High-Performance Computing
 ### [High-Performance Computing](https://github.com/Astroinformatics/HighPerformanceComputing)
-### Putting it all together
-### Panel Discussion on ML in Astronomy
 
 -----
