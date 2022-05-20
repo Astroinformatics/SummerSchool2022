@@ -1,4 +1,13 @@
-using Pluto, Pkg
+import Pkg
+
+if ! haskey(Pkg.installed(),"Pluto")
+    Pkg.activate(mktempdir());
+    Pkg.add([
+      Pkg.PackageSpec(name="Pluto", version="0.19.5"),
+      ])
+end
+
+using Pluto
 
 for (root, dirs, files) in walkdir(".")
     #=
