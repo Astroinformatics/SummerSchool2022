@@ -1,5 +1,5 @@
 # Astroinformatics Summer School 2022
-Orgaized by [Penn State Center for Astrostatistics](https://sites.psu.edu/astrostatistics/)
+Organized by [Penn State Center for Astrostatistics](https://sites.psu.edu/astrostatistics/)
 
 [Website & registration](https://sites.psu.edu/astrostatistics/astroinfo-su22/)
 -----
@@ -11,7 +11,7 @@ Orgaized by [Penn State Center for Astrostatistics](https://sites.psu.edu/astros
 - Gradient Descent Lab
 - Linear Regression Lab
 - Logistic Regression Lab
-- Suppert Vector Machines Lab
+- Support Vector Machines Lab
 - Application: Classifying High-z Quasars
 
 ### Data Mining
@@ -33,7 +33,7 @@ Orgaized by [Penn State Center for Astrostatistics](https://sites.psu.edu/astros
 ### [Bayesian Computing](https://github.com/Astroinformatics/BayesianComputing)
 - Monte Carlo Integration Lab
 - Intro to Probabilistic Programming Languages Lab
-- Heirarchical Modeling via a PPL 
+- Hierarchical Modeling via a PPL 
 - Application:  Hierarchical Model of Galaxy Evolution
 
 
