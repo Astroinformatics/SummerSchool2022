@@ -1,5 +1,5 @@
 # Astroinformatics Summer School 2022
-Orgaized by [Penn State Center for Astrostatistics](https://sites.psu.edu/astrostatistics/)
+Organized by [Penn State Center for Astrostatistics](https://sites.psu.edu/astrostatistics/)
 
 [Website & registration](https://sites.psu.edu/astrostatistics/astroinfo-su22/)
 -----
@@ -11,12 +11,12 @@ Orgaized by [Penn State Center for Astrostatistics](https://sites.psu.edu/astros
 - Gradient Descent Lab
 - Linear Regression Lab
 - Logistic Regression Lab
-- Suppert Vector Machines Lab
+- Support Vector Machines Lab
 - Application: Classifying High-z Quasars
 
 ### Data Mining
-- Intro to Databases & SQL
-- SQL Lab
+- Intro to Databases & SQL ([slides](https://drive.google.com/file/d/152gijuTv5kvbP3VODNg1Dbzt_0gdElSA/view?usp=sharing))
+- SQL Lab ([instructions](https://drive.google.com/file/d/1J8lFFAQFSA_90_K53suEOAkoBjcl6NKV/view?usp=sharing))
 
 -----
 
@@ -33,7 +33,7 @@ Orgaized by [Penn State Center for Astrostatistics](https://sites.psu.edu/astros
 ### [Bayesian Computing](https://github.com/Astroinformatics/BayesianComputing)
 - Monte Carlo Integration Lab
 - Intro to Probabilistic Programming Languages Lab
-- Heirarchical Modeling via a PPL 
+- Hierarchical Modeling via a PPL 
 - Application:  Hierarchical Model of Galaxy Evolution
 
 
@@ -50,7 +50,5 @@ Orgaized by [Penn State Center for Astrostatistics](https://sites.psu.edu/astros
 -----
 ## Day 5:  High-Performance Computing
 ### [High-Performance Computing](https://github.com/Astroinformatics/HighPerformanceComputing)
-### Putting it all together
-### Panel Discussion on ML in Astronomy
 
 -----
