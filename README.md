@@ -16,8 +16,9 @@ Organized by [Penn State Center for Astrostatistics](https://sites.psu.edu/astro
 
 ### Data Mining
 - Intro to Databases & SQL ([slides](https://drive.google.com/file/d/152gijuTv5kvbP3VODNg1Dbzt_0gdElSA/view?usp=sharing))
-- SQL Lab ([instructions](https://drive.google.com/file/d/1J8lFFAQFSA_90_K53suEOAkoBjcl6NKV/view?usp=sharing))
-
+- SQL Lab:
+   + Getting started with SciServer.org instructions:  ([text](https://docs.google.com/document/d/1j-xunAPcYn1VS91xDyAro2BYiQKJQbff4rrwQTBzRDQ/edit?usp=sharing)) & ([video](https://psu.mediaspace.kaltura.com/media/Getting+started+with+SQL+Lab+using+SciServer/1_sg85a1ed))
+   + [SQL Lab instructions](https://drive.google.com/file/d/1J8lFFAQFSA_90_K53suEOAkoBjcl6NKV/view?usp=sharing)
 -----
 
 ## Day 2:  Machine Learning in Practice
