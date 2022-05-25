@@ -1,6 +1,6 @@
 import Pkg
 
-should_update = true
+should_update = false
 should_instantiate = true
 should_precompile = true
 should_install_IJulia = true
