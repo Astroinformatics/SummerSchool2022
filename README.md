@@ -4,14 +4,18 @@ Organized by [Penn State Center for Astrostatistics](https://sites.psu.edu/astro
 [Website & registration](https://sites.psu.edu/astrostatistics/astroinfo-su22/)
 -----
 
-# Draft Program
+# Program
 
+## "Day 0":  Getting Started/Fundamentals of Machine Learning
+### Optimization ([github](https://github.com/Astroinformatics/Optimization)) 
+- Gradient Descent Lab  
+  This lab serves two purposes: providing intution about the gradient descent algorithm for optimizing functions and making sure that students are able to access the servers for the workshop.
+
+-----
 ## Day 1:  Fundamentals of Machine Learning
 ### Regression & Classification ([github](https://github.com/Astroinformatics/RegressionAndClassification))
-- Gradient Descent Lab
 - Linear Regression Lab
 - Logistic Regression Lab
-- Support Vector Machines Lab
 - Application: Classifying High-redshift Quasars I Lab
 
 ### Data Mining
@@ -22,13 +26,14 @@ Organized by [Penn State Center for Astrostatistics](https://sites.psu.edu/astro
 -----
 
 ## Day 2:  Machine Learning in Practice
-### Regularization for Machine Learning ([github](https://github.com/Astroinformatics/Regularization/))
+### Regularized Regression for Machine Learning ([github](https://github.com/Astroinformatics/Regularization/))
+  - Regularized Regression Lab
 
 ### Dimensional Reduction ([github](https://github.com/Astroinformatics/DimensionalReduction))
-  - [Intro to PCA Lab](https://raw.githubusercontent.com/Astroinformatics/DimensionalReduction/main/pca_intro.jl)
-  - [Kernels for PCA & SVMs Lab](https://raw.githubusercontent.com/Astroinformatics/DimensionalReduction/main/kernel_pca_intro.jl)
-  - Application: [Classifying High-redshift Quasars II Lab](https://github.com/Astroinformatics/DimensionalReduction/raw/main/pca_apply.jl)
-  - Application: [Galaxy classification Lab](https://github.com/Astroinformatics/DimensionalReduction/blob/main/application_to_galaxy_images.ipynb)
+  - Intro to PCA Lab
+  - Kernel PCA & SVMs Lab
+  - Application: Classifying High-redshift Quasars II Lab
+  - Application: Galaxy classification Lab
 
 -----
 ## Day 3:  Hierarchical Modeling & Intro to Neural Networks
@@ -40,18 +45,19 @@ Organized by [Penn State Center for Astrostatistics](https://sites.psu.edu/astro
 
 
 ### Neural Networks ([github](https://github.com/Astroinformatics/NeuralNetworks))
-- [Neural Networks Lab](https://raw.githubusercontent.com/Astroinformatics/NeuralNetworks/main/neuralnetwork_intro.jl)
+- Application:  Neural Networks Lab (Classifying High-redshift Quasars III)
 
 -----
 ## Day 4:  Modern Machine Learning Methods
 ### Variational Inference ([github](https://github.com/Astroinformatics/VariationalInference))
 - Application: Image classificaiton
+
 ### Scientific Machine Learning ([github](https://github.com/Astroinformatics/ScientificMachineLearning))
-- Lab TBD
+- Scientific Machine Learning Lab
 
 -----
 ## Day 5:  High-Performance Computing
 ### High-Performance Computing ([github](https://github.com/Astroinformatics/HighPerformanceComputing))
-- Lab TBD
+- GPU Computing Lab
 
 -----
