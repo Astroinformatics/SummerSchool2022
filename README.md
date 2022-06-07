@@ -61,3 +61,10 @@ Organized by [Penn State Center for Astrostatistics](https://sites.psu.edu/astro
 - GPU Computing Lab
 
 -----
+
+## Additional Reading (general)
+- [International Astroinformatics Association](https://astroinformatics.info/astroinfo)
+- [Astroinformatics: A 21st Century Approach to Astronomy (Borne 2009)](https://arxiv.org/abs/0909.3892)
+- [Data Mining and Machine Learning in Astronomy (Ball & Brunner 2010)](https://ui.adsabs.harvard.edu/abs/2010IJMPD..19.1049B/abstract)
+- [Machine learning and the physical sciences* (Carleo et al. 2019)](https://ui.adsabs.harvard.edu/abs/2019RvMP...91d5002C/abstract)
+- [Machine learning in Astronomy (Baron 2019)](https://ui.adsabs.harvard.edu/abs/2019arXiv190407248B/abstract)
