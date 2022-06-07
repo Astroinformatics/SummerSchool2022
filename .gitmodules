@@ -22,3 +22,6 @@
 [submodule "day5/HighPerformanceComputing"]
 	path = day5/HighPerformanceComputing
 	url = git@github.com:Astroinformatics/HighPerformanceComputing.git
+[submodule "day0/Optimization"]
+	path = day0/Optimization
+	url = git@github.com:Astroinformatics/Optimization.git
