@@ -62,9 +62,15 @@ Organized by [Penn State Center for Astrostatistics](https://sites.psu.edu/astro
 
 -----
 
-## Additional Reading (general)
-- [International Astroinformatics Association](https://astroinformatics.info/astroinfo)
+## Additional Resources
+### What is Astroinformatics?  The Place of Machine Learning in Astronomy & Astrophysics
 - [Astroinformatics: A 21st Century Approach to Astronomy (Borne 2009)](https://arxiv.org/abs/0909.3892)
 - [Data Mining and Machine Learning in Astronomy (Ball & Brunner 2010)](https://ui.adsabs.harvard.edu/abs/2010IJMPD..19.1049B/abstract)
 - [Machine learning and the physical sciences* (Carleo et al. 2019)](https://ui.adsabs.harvard.edu/abs/2019RvMP...91d5002C/abstract)
 - [Machine learning in Astronomy (Baron 2019)](https://ui.adsabs.harvard.edu/abs/2019arXiv190407248B/abstract)
+
+
+### Professional Organizations
+- [IAU Commission B3 Astroinformatics and Astrostatistics](https://www.iau.org/science/scientific_bodies/commissions/B3/info/)
+- [AAS Working Group on Astroinformatics & Astrostatistics](https://aas.org/comms/working-group-astroinformatics-and-astrostatistics-wgaa)
+- [International Astroinformatics Association](https://astroinformatics.info/astroinfo)
