@@ -1,3 +1,9 @@
+[submodule "day0/Optimization"]
+	path = day0/Optimization
+	url = git@github.com:Astroinformatics/Optimization.git
+[submodule "day1/RegressionAndClassification"]
+	path = day1/RegressionAndClassification
+	url = git@github.com:Astroinformatics/RegressionAndClassification.git
 [submodule "day2/DimensionalReduction"]
 	path = day2/DimensionalReduction
 	url = git@github.com:Astroinformatics/DimensionalReduction.git
@@ -10,9 +16,6 @@
 [submodule "day4/VariationalInference"]
 	path = day4/VariationalInference
 	url = git@github.com:Astroinformatics/VariationalInference.git
-[submodule "day1/RegressionAndClassification"]
-	path = day1/RegressionAndClassification
-	url = git@github.com:Astroinformatics/RegressionAndClassification.git
 [submodule "day4/ScientificMachineLearning"]
 	path = day4/ScientificMachineLearning
 	url = git@github.com:Astroinformatics/ScientificMachineLearning.git
