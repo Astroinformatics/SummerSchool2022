@@ -4,12 +4,8 @@
 ### Organized by [Penn State Center for Astrostatistics](https://sites.psu.edu/astrostatistics/)
 
 -----
-## Morning Session
+## Day 5 Sessions
 - High-Performance Computing ([github](https://github.com/Astroinformatics/HighPerformanceComputing))
-
------
-## Afternoon Session 
-- High-Performance Computing (continued, [github](https://github.com/Astroinformatics/HighPerformanceComputing))
 
 -----
 ## Additional Links
