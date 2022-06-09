@@ -39,10 +39,9 @@ Organized by [Penn State Center for Astrostatistics](https://sites.psu.edu/astro
 ## Day 3:  Hierarchical Modeling & Intro to Neural Networks
 ### Bayesian Computing ([github](https://github.com/Astroinformatics/BayesianComputing))
 - Monte Carlo Integration Lab
+- Application:  Hierarchical Model of Galaxy Evolution
 - Intro to Probabilistic Programming Languages Lab
 - Hierarchical Modeling via a PPL 
-- Application:  Hierarchical Model of Galaxy Evolution
-
 
 ### Neural Networks ([github](https://github.com/Astroinformatics/NeuralNetworks))
 - Application:  Neural Networks Lab (Classifying High-redshift Quasars III)
@@ -58,7 +57,8 @@ Organized by [Penn State Center for Astrostatistics](https://sites.psu.edu/astro
 -----
 ## Day 5:  High-Performance Computing
 ### High-Performance Computing ([github](https://github.com/Astroinformatics/HighPerformanceComputing))
-- GPU Computing Lab
+- Linear Algebra with GPUs Lab
+- Neural Networks with GPUs Lab
 
 -----
 
