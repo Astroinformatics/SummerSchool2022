@@ -1,8 +1,8 @@
 # Astroinformatics Summer School 2022
 Organized by [Penn State Center for Astrostatistics](https://sites.psu.edu/astrostatistics/)
-
-[Website & registration](https://sites.psu.edu/astrostatistics/astroinfo-su22/)
 -----
+
+## [Slides](https://scholarsphere.psu.edu/resources/ef3686a6-ba0c-4b83-bb99-3afdad39c7e7) 
 
 # Program
 
@@ -14,23 +14,25 @@ Organized by [Penn State Center for Astrostatistics](https://sites.psu.edu/astro
 -----
 ## Day 1:  Fundamentals of Machine Learning
 ### Regression & Classification ([github](https://github.com/Astroinformatics/RegressionAndClassification))
-- Linear Regression Lab
-- Logistic Regression Lab
+- Philosophy of Astroinformatics: [slides](https://scholarsphere.psu.edu/resources/ef3686a6-ba0c-4b83-bb99-3afdad39c7e7/downloads/20639)
+- Linear Regression Lab: [slides](https://scholarsphere.psu.edu/resources/ef3686a6-ba0c-4b83-bb99-3afdad39c7e7/downloads/20638)
+- Logistic Regression Lab: [slides](https://scholarsphere.psu.edu/resources/ef3686a6-ba0c-4b83-bb99-3afdad39c7e7/downloads/20637) 
 - Application: Classifying High-redshift Quasars I Lab
 
 ### Data Mining
-- Intro to Databases & SQL ([slides](https://drive.google.com/file/d/152gijuTv5kvbP3VODNg1Dbzt_0gdElSA/view?usp=sharing))
+- Intro to Databases & SQL ([slides](https://scholarsphere.psu.edu/resources/ef3686a6-ba0c-4b83-bb99-3afdad39c7e7/downloads/20636))
 - SQL Lab:
    + Getting started with SciServer.org instructions:  ([text](https://docs.google.com/document/d/1j-xunAPcYn1VS91xDyAro2BYiQKJQbff4rrwQTBzRDQ/edit?usp=sharing)) & ([video](https://psu.mediaspace.kaltura.com/media/Getting+started+with+SQL+Lab+using+SciServer/1_sg85a1ed))
-   + [SQL Lab instructions](https://drive.google.com/file/d/1J8lFFAQFSA_90_K53suEOAkoBjcl6NKV/view?usp=sharing)
+   + [SQL Lab instructions](https://scholarsphere.psu.edu/resources/ef3686a6-ba0c-4b83-bb99-3afdad39c7e7/downloads/20625)
 -----
 
 ## Day 2:  Machine Learning in Practice
 ### Regularized Regression for Machine Learning ([github](https://github.com/Astroinformatics/Regularization/))
-  - Regularized Regression Lab
+  - Regularized Regression Lab: [slides](https://scholarsphere.psu.edu/resources/ef3686a6-ba0c-4b83-bb99-3afdad39c7e7/downloads/20635)
 
 ### Dimensional Reduction ([github](https://github.com/Astroinformatics/DimensionalReduction))
-  - Intro to PCA Lab
+  - [Slides](https://scholarsphere.psu.edu/resources/ef3686a6-ba0c-4b83-bb99-3afdad39c7e7/downloads/20634)
+  - Intro to PCA Lab  
   - Kernel PCA & SVMs Lab
   - Application: Classifying High-redshift Quasars II Lab
   - Application: Galaxy classification Lab
@@ -38,29 +40,35 @@ Organized by [Penn State Center for Astrostatistics](https://sites.psu.edu/astro
 -----
 ## Day 3:  Hierarchical Modeling & Intro to Neural Networks
 ### Bayesian Computing ([github](https://github.com/Astroinformatics/BayesianComputing))
-- Monte Carlo Integration Lab
-- Application:  Hierarchical Model of Galaxy Evolution
+- Monte Carlo Integration Lab: [slides](https://scholarsphere.psu.edu/resources/ef3686a6-ba0c-4b83-bb99-3afdad39c7e7/downloads/20632)
+- Application:  Hierarchical Model of Galaxy Evolution: [slides](https://scholarsphere.psu.edu/resources/ef3686a6-ba0c-4b83-bb99-3afdad39c7e7/downloads/20633)
 - Intro to Probabilistic Programming Languages Lab
 - Hierarchical Modeling via a PPL 
 
-### Neural Networks ([github](https://github.com/Astroinformatics/NeuralNetworks))
+### Neural Networks ([slides](https://scholarsphere.psu.edu/resources/ef3686a6-ba0c-4b83-bb99-3afdad39c7e7/downloads/20631) &amp; [github](https://github.com/Astroinformatics/NeuralNetworks))
 - Application:  Neural Networks Lab (Classifying High-redshift Quasars III)
 
 -----
 ## Day 4:  Modern Machine Learning Methods
-### Variational Inference ([github](https://github.com/Astroinformatics/VariationalInference))
+### Variational Inference ([slides](https://scholarsphere.psu.edu/resources/ef3686a6-ba0c-4b83-bb99-3afdad39c7e7/downloads/20630) &amp; [github](https://github.com/Astroinformatics/VariationalInference))
 - Application: Image classificaiton
 
 ### Scientific Machine Learning ([github](https://github.com/Astroinformatics/ScientificMachineLearning))
-- Scientific Machine Learning Lab
+- Scientific Machine Learning Lab: [slides](https://scholarsphere.psu.edu/resources/ef3686a6-ba0c-4b83-bb99-3afdad39c7e7/downloads/20629)
 
 -----
 ## Day 5:  High-Performance Computing
 ### High-Performance Computing ([github](https://github.com/Astroinformatics/HighPerformanceComputing))
+- Slides: 
+   - [Conepts](https://scholarsphere.psu.edu/resources/ef3686a6-ba0c-4b83-bb99-3afdad39c7e7/downloads/20628)
+   - [Reources](https://scholarsphere.psu.edu/resources/ef3686a6-ba0c-4b83-bb99-3afdad39c7e7/downloads/20627)
 - Linear Algebra with GPUs Lab
 - Neural Networks with GPUs Lab
 
+- Putting the Peice Together: [slides](Putting the Peice Together Ford.pdf)
 -----
+
+## [Website & registration](https://sites.psu.edu/astrostatistics/astroinfo-su22/)
 
 ## Additional Resources
 ### What is Astroinformatics?  The Place of Machine Learning in Astronomy & Astrophysics
